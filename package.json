@@ -1,0 +1,23 @@
+{
+  "name": "api-node",
+  "version": "1.0.0",
+  "description": "Api in express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sebalvarez97/trainers-express.git"
+  },
+  "author": "Sebalvarez97",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sebalvarez97/trainers-express/issues"
+  },
+  "homepage": "https://github.com/Sebalvarez97/trainers-express#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-generator": "^4.16.1"
+  }
+}
